@@ -1,3 +1,16 @@
+Command:
+
+```
+cd ethereum-block-explorer
+yarn server
+
+in another tab,
+yarn start
+```
+
+navigate to http://localhost:3000/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
